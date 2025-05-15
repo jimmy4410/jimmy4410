@@ -3,8 +3,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jimmy4410.jimmy4410&"  />
 </div>
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=jimmy4410&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-### 
+</div>
+  ### 
 <!--
 **jimmy4410/jimmy4410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
